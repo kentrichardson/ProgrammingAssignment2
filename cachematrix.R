@@ -1,6 +1,6 @@
 # Learning R Second Week Assignment
 # Kent Richardson
-# March 15, 2016
+# April 20, 2016
 #
 ###############################
 #
